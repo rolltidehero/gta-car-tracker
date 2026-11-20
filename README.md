@@ -32,6 +32,10 @@ The workflow runs `node update-tracker.js --auto` every hour: it refreshes car v
 
 Every car with `"wishList": true` carries a `"wish"` object with `status` (an evidence tier: Guides agree, Reported sighting, Traffic search or No fixed spot), `list`, `spots`, `need`, `how`, `tracker`, `caveat` and `sources`. Nothing was checked in the game, so a spot is never described as confirmed.
 
+## RSS alerts
+
+Select **Get RSS alerts!** or paste the [feed URL](https://rolltidehero.github.io/gta-car-tracker/feed.xml) into a feed reader. The update script generates `feed.xml` and keeps the 25 most recent items. Car values, Wish List cards, and other tracker content changes generate alerts; date-only checks do not.
+
 ## Footer version
 
 The footer shows the latest commit hash, commit count and commit time, read live from the GitHub API.
