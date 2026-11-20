@@ -1,14 +1,14 @@
-# Hourly unattended refresh of the Car Tracker. Runs on GitHub's servers, so no computer needs to be on.
-name: Hourly refresh
+# Unattended refresh every four hours.
+name: Four-hour refresh
 on:
   schedule:
-    - cron: '43 * * * *'   # every hour at minute 43 (UTC)
+    - cron: '43 */4 * * *'   # every four hours at minute 43 (UTC)
   workflow_dispatch: {}     # lets you run it by hand from the Actions tab
 permissions:
   contents: write           # commit and push the rebuilt files
   pages: write              # ask GitHub Pages to rebuild after a push
 concurrency:
-  group: hourly-refresh
+  group: tracker-refresh
   cancel-in-progress: false
 jobs:
   refresh:

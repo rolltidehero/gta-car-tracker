@@ -2,7 +2,7 @@
 
 GTA VI car values by buyer (Moses, Pay 'n' Spray and Randy) and tracker level, plus a location card for every car on Randy's Wish List. Live page: https://rolltidehero.github.io/gta-car-tracker/
 
-Sister app: the [Glitch Tracker](https://github.com/rolltidehero/gta-glitch-tracker) (money exploits and physics glitches). Each page links to the other.
+Sister apps: the [Glitch Tracker](https://rolltidehero.github.io/gta-glitch-tracker/) for physics reports and the [Money Tracker](https://rolltidehero.github.io/gta-money-tracker/) for money reports and earning routes.
 
 Car values come from published scan cards and guides, mainly IGN's vehicle table. They are not measurements, nothing was checked in the game for this tracker, and the page shows where guides disagree.
 
@@ -14,8 +14,8 @@ Car values come from published scan cards and guides, mainly IGN's vehicle table
 | `data.js` | Generated from `tracker-data.json`. Do not edit. |
 | `index.html`, `app.js`, `style.css`, `base.css` | The page itself. No build step, no dependencies. |
 | `exports/` | Generated CSV copy of the car value list. |
-| `update-tracker.js` | The single update script. It is the same file as in the Glitch Tracker repo and works out which app it is in from `tracker-data.json`. |
-| `.github/workflows/refresh.yml` | Runs the script every hour on GitHub's servers. |
+| `update-tracker.js` | The single update script, shared by all three repos. It reads `meta.repo` in `tracker-data.json` to identify its app. |
+| `.github/workflows/refresh.yml` | Runs the script every four hours on GitHub's servers. |
 
 ## How to update
 
@@ -24,9 +24,9 @@ Car values come from published scan cards and guides, mainly IGN's vehicle table
 
 The script shows each of its 13 steps (steps that belong to the Glitch Tracker are skipped here), validates the data, rebuilds `data.js` and the CSV, runs self-tests, commits and pushes.
 
-## Hourly automatic refresh
+## Automatic refresh
 
-The workflow runs `node update-tracker.js --auto` every hour: it refreshes car values from IGN, stamps the date, rebuilds, commits and pushes only when something changed, then asks GitHub Pages to rebuild. A script cannot judge a disputed value or a new Wish List location, so those still need a person to edit `tracker-data.json`.
+The workflow runs `node update-tracker.js --auto` every four hours at minute 43 UTC. It refreshes car values from IGN, stamps the date, rebuilds, commits and pushes only when something changed, then asks GitHub Pages to rebuild. Disputed values and Wish List location updates still need editorial review.
 
 ## Wish List location cards
 
