@@ -1,4 +1,4 @@
-# Hourly unattended refresh of the Car Tracker. Runs on GitHub's servers, so no computer has to be on.
+# Hourly unattended refresh of the Car Tracker. Runs on GitHub's servers, so no computer needs to be on.
 name: Hourly refresh
 on:
   schedule:
