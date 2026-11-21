@@ -29,6 +29,7 @@ The script shows each of its 13 steps (steps that belong to the Glitch Tracker a
 The workflow schedules `node update-tracker.js --auto` every 15 minutes at :08, :23, :38 and :53 UTC. It refreshes car values from IGN, stamps the date, rebuilds, commits and pushes only when something changed, then asks GitHub Pages to rebuild. Disputed values and Wish List location updates still need editorial review.
 
 The header shows when the update-script step last finished, in Central Time, even if there was no new commit.
+The separate **Data date** shows when the published snapshot was stamped, also in Central Time. It advances on a new day or when the snapshot changes, not on quiet same-day runs.
 
 ## Wish List location cards
 
