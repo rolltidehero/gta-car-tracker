@@ -40,7 +40,10 @@
           </div>
           <p>GTA VI car values by buyer and tracker level, plus where to find every car on Randy's Wish List. Values come from published scans and guides, not from measurements made for this tracker.</p>
         </div>
-        <p class="asof">Checked <strong id="asof-date"></strong></p>
+        <p class="asof">Last successful check<br />
+          <a id="last-check" href="https://github.com/rolltidehero/gta-car-tracker/actions/workflows/refresh.yml" aria-live="polite">See workflow history</a><br />
+          Data date <strong id="asof-date"></strong>
+        </p>
       </header>
 
       <nav class="jump" aria-label="Sections">
@@ -121,5 +124,6 @@
 
     <script src="data.js"></script>
     <script src="app.js"></script>
+    <script src="last-check.js"></script>
   </body>
 </html>
