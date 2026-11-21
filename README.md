@@ -15,7 +15,7 @@ Car values come from published scan cards and guides, mainly IGN's vehicle table
 | `index.html`, `app.js`, `style.css`, `base.css` | The page itself. No build step, no dependencies. |
 | `exports/` | Generated CSV copy of the car value list. |
 | `update-tracker.js` | The single update script, shared by all three repos. It reads `meta.repo` in `tracker-data.json` to identify its app. |
-| `.github/workflows/refresh.yml` | Runs the script every four hours on GitHub's servers. |
+| `.github/workflows/refresh.yml` | Schedules the script every 15 minutes on GitHub's servers. |
 
 ## How to update
 
@@ -26,7 +26,9 @@ The script shows each of its 13 steps (steps that belong to the Glitch Tracker a
 
 ## Automatic refresh
 
-The workflow runs `node update-tracker.js --auto` every four hours at minute 43 UTC. It refreshes car values from IGN, stamps the date, rebuilds, commits and pushes only when something changed, then asks GitHub Pages to rebuild. Disputed values and Wish List location updates still need editorial review.
+The workflow schedules `node update-tracker.js --auto` every 15 minutes at :08, :23, :38 and :53 UTC. It refreshes car values from IGN, stamps the date, rebuilds, commits and pushes only when something changed, then asks GitHub Pages to rebuild. Disputed values and Wish List location updates still need editorial review.
+
+The header shows when the update-script step last finished, in Central Time, even if there was no new commit.
 
 ## Wish List location cards
 
