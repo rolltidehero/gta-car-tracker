@@ -6,11 +6,11 @@
 
   var DATA = {
     "meta": {
-      "asOf": "November 21, 2026",
+      "asOf": "November 22, 2026",
       "platformsLive": "PS5, Xbox Series X|S",
       "platformsNote": "No PC version, no online mode",
       "repo": "rolltidehero/gta-car-tracker",
-      "asOfAt": "2026-11-21T18:06:19.911Z"
+      "asOfAt": "2026-11-22T11:05:35.333Z"
     },
     "sources": {
       "forbes": {
