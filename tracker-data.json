@@ -4,7 +4,7 @@
     "platformsLive": "PS5, Xbox Series X|S",
     "platformsNote": "No PC version, no online mode",
     "repo": "rolltidehero/gta-car-tracker",
-    "asOfAt": "2026-11-23T14:28:29.373Z"
+    "asOfAt": "2026-11-24T01:52:11.418Z"
   },
   "sources": {
     "forbes": {
@@ -1864,6 +1864,1206 @@
       "note": "Scanned in Moses's yard.",
       "sources": [
         "gta6heists"
+      ]
+    },
+    {
+      "name": "Baller",
+      "ignName": "Baller",
+      "brand": "Gallivanter",
+      "type": "SUV",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 2970,
+      "registerCost": 10000,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Baller ST-D",
+      "ignName": "Baller ST-D",
+      "brand": "Gallivanter",
+      "type": "SUV",
+      "era": "2020s Current",
+      "tracker": "Standard",
+      "sellValue": 7755,
+      "registerCost": 27600,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Banshee",
+      "ignName": "Banshee",
+      "brand": "Bravado",
+      "type": "Sport",
+      "era": "2000s Modern",
+      "tracker": "Standard",
+      "sellValue": 7315,
+      "registerCost": 24500,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Bison",
+      "ignName": "Bison",
+      "brand": "Bravado",
+      "type": "Pickup",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 2965,
+      "registerCost": 9000,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Bison 1800",
+      "ignName": "Bison 1800",
+      "brand": "Bravado",
+      "type": "Pickup",
+      "era": "2010s Current",
+      "tracker": "None",
+      "sellValue": 2475,
+      "registerCost": 8250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Bison 3800",
+      "ignName": "Bison 3800",
+      "brand": "Bravado",
+      "type": "Pickup",
+      "era": "2010s Current",
+      "tracker": "Standard",
+      "sellValue": 4015,
+      "registerCost": 13500,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Blast",
+      "ignName": "Blast",
+      "brand": "Mer-Can",
+      "type": "Off-Road",
+      "era": "2020s Modern",
+      "tracker": "None",
+      "sellValue": 1430,
+      "registerCost": null,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Bogan",
+      "ignName": "Bogan",
+      "brand": "Bravado",
+      "type": "Sedan",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 660,
+      "registerCost": 2150,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Caracara 4x4",
+      "ignName": "Caracara 4x4",
+      "brand": "Vapid",
+      "type": "Pickup",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 5500,
+      "registerCost": 18500,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Carbonizzare",
+      "ignName": "Carbonizzare",
+      "brand": "Grotti",
+      "type": "Sport",
+      "era": "2010s Modern",
+      "tracker": "Advanced",
+      "sellValue": 9845,
+      "registerCost": 28300,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Cavalcade XL",
+      "ignName": "Cavalcade XL",
+      "brand": "Albany",
+      "type": "SUV",
+      "era": "2020s Current",
+      "tracker": "Standard",
+      "sellValue": 9735,
+      "registerCost": 28250,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Chavos XS",
+      "ignName": "Chavos XS",
+      "brand": "Dinka",
+      "type": "Sedan",
+      "era": "2010s Current",
+      "tracker": "None",
+      "sellValue": 1210,
+      "registerCost": 4000,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Comet S2",
+      "ignName": "Comet S2",
+      "brand": "Pfister",
+      "type": "Sport",
+      "era": "2020s Current",
+      "tracker": "Advanced",
+      "sellValue": 16500,
+      "registerCost": 31250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Contender",
+      "ignName": "Contender",
+      "brand": "Karin",
+      "type": "Pickup",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 12320,
+      "registerCost": 29150,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Coquette",
+      "ignName": "Coquette",
+      "brand": "Invetero",
+      "type": "Sport",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 7205,
+      "registerCost": 24000,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Coquette D10",
+      "ignName": "Coquette D10",
+      "brand": "Invetero",
+      "type": "Sport",
+      "era": "2020s Current",
+      "tracker": "Advanced",
+      "sellValue": 9350,
+      "registerCost": 28150,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Cypher",
+      "ignName": "Cypher",
+      "brand": "Ubermacht",
+      "type": "Coupe",
+      "era": "2020s Current",
+      "tracker": "Standard",
+      "sellValue": 6875,
+      "registerCost": 23000,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "D7700",
+      "ignName": "D7700",
+      "brand": "Declasse",
+      "type": "Truck",
+      "era": "2000s Modern",
+      "tracker": "Standard",
+      "sellValue": 2.9,
+      "registerCost": 2.6,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Dominator",
+      "ignName": "Dominator",
+      "brand": "Vapid",
+      "type": "Muscle",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 2970,
+      "registerCost": 9900,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Dominator ASP",
+      "ignName": "Dominator ASP",
+      "brand": "Vapid",
+      "type": "Muscle",
+      "era": "2000s Modern",
+      "tracker": "Standard",
+      "sellValue": 3355,
+      "registerCost": 11250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Dominator GT",
+      "ignName": "Dominator GT",
+      "brand": "Vapid",
+      "type": "Muscle",
+      "era": "2020s Modern",
+      "tracker": "Standard",
+      "sellValue": 3245,
+      "registerCost": 10750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Dorado",
+      "ignName": "Dorado",
+      "brand": "Bravado",
+      "type": "SUV",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 1210,
+      "registerCost": 4000,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Dubsta",
+      "ignName": "Dubsta",
+      "brand": "Benefactor",
+      "type": "SUV",
+      "era": "2000s Modern",
+      "tracker": "Standard",
+      "sellValue": 6215,
+      "registerCost": 20750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Emerus",
+      "ignName": "Emerus",
+      "brand": "Progen",
+      "type": "Super",
+      "era": "2010s Current",
+      "tracker": "Advanced",
+      "sellValue": 21890,
+      "registerCost": 59900,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "FR36",
+      "ignName": "FR36",
+      "brand": "Fathom",
+      "type": "Coupe",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 1000,
+      "registerCost": 3650,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Furia",
+      "ignName": "Furia",
+      "brand": "Piccia",
+      "type": "Super",
+      "era": "2020s Current",
+      "tracker": "Advanced",
+      "sellValue": 23045,
+      "registerCost": 66250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Gauntlet Hellfire",
+      "ignName": "Gauntlet Hellfire",
+      "brand": "Bravado",
+      "type": "Muscle",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 10120,
+      "registerCost": 28400,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Granger",
+      "ignName": "Granger",
+      "brand": "Declasse",
+      "type": "SUV",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 1925,
+      "registerCost": 6400,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Granger 3600LX",
+      "ignName": "Granger 3600LX",
+      "brand": "Declasse",
+      "type": "SUV",
+      "era": "2010s Modern",
+      "tracker": "None",
+      "sellValue": 2420,
+      "registerCost": 8150,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Gresley XT",
+      "ignName": "Gresley XT",
+      "brand": "Bravado",
+      "type": "SUV",
+      "era": "2010s Current",
+      "tracker": "Standard",
+      "sellValue": 4345,
+      "registerCost": 14500,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Greta",
+      "ignName": "Greta",
+      "brand": "BF",
+      "type": "Sedan",
+      "era": "2010s Modern",
+      "tracker": "None",
+      "sellValue": 825,
+      "registerCost": 2900,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Growler",
+      "ignName": "Growler",
+      "brand": "Pfister",
+      "type": "Sport",
+      "era": "2020s Current",
+      "tracker": "Standard",
+      "sellValue": 13310,
+      "registerCost": 29450,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Intruder",
+      "ignName": "Intruder",
+      "brand": "Karin",
+      "type": "Sedan",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 825,
+      "registerCost": 2750,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Itali RSX",
+      "ignName": "Itali RSX",
+      "brand": "Grotti",
+      "type": "Super",
+      "era": "2020s Current",
+      "tracker": "Advanced",
+      "sellValue": 18260,
+      "registerCost": 40650,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Jubilee",
+      "ignName": "Jubilee",
+      "brand": "Buckingham",
+      "type": "SUV",
+      "era": "2020s Current",
+      "tracker": "Advanced",
+      "sellValue": 17215,
+      "registerCost": 34900,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Jugular",
+      "ignName": "Jugular",
+      "brand": "Ocelot",
+      "type": "Sedan",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 10615,
+      "registerCost": 28550,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Kamacho",
+      "ignName": "Kamacho",
+      "brand": "Canis",
+      "type": "SUV",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 6555,
+      "registerCost": 22250,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Landstalker XL",
+      "ignName": "Landstalker XL",
+      "brand": "Dundreary",
+      "type": "SUV",
+      "era": "2020s Current",
+      "tracker": "Standard",
+      "sellValue": 4620,
+      "registerCost": 15500,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Lowline",
+      "ignName": "Lowline",
+      "brand": "Vapid",
+      "type": "Sedan",
+      "era": "2010s Modern",
+      "tracker": "None",
+      "sellValue": 1430,
+      "registerCost": 4750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Mesa",
+      "ignName": "Mesa",
+      "brand": "Canis",
+      "type": "SUV",
+      "era": "2020s Current",
+      "tracker": "None",
+      "sellValue": 2365,
+      "registerCost": 8000,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Montagne",
+      "ignName": "Montagne",
+      "brand": "Vapid",
+      "type": "SUV",
+      "era": "2010s Current",
+      "tracker": "None",
+      "sellValue": 770,
+      "registerCost": 2650,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Montagne Pickup",
+      "ignName": "Montagne Pickup",
+      "brand": "Vapid",
+      "type": "Pickup",
+      "era": "2010s Modern",
+      "tracker": "None",
+      "sellValue": 1595,
+      "registerCost": 5400,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Montagne XL",
+      "ignName": "Montagne XL",
+      "brand": "Vapid",
+      "type": "SUV",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 1045,
+      "registerCost": 3400,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Neon",
+      "ignName": "Neon",
+      "brand": "Pfister",
+      "type": "Sport",
+      "era": "2020s Current",
+      "tracker": "Advanced",
+      "sellValue": 7260,
+      "registerCost": 24250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Outlaw",
+      "ignName": "Outlaw",
+      "brand": "Mer-Can",
+      "type": "Off-Road",
+      "era": "2010s Current",
+      "tracker": "None",
+      "sellValue": 2420,
+      "registerCost": 8150,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Paragon",
+      "ignName": "Paragon",
+      "brand": "Ascot",
+      "type": "Coupe",
+      "era": "2010s Current",
+      "tracker": "Advanced",
+      "sellValue": 16555,
+      "registerCost": 31400,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Penumbra",
+      "ignName": "Penumbra",
+      "brand": "Maibatsu",
+      "type": "Coupe",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 1265,
+      "registerCost": 4250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "PMP 700",
+      "ignName": "PMP 700",
+      "brand": "Schyster",
+      "type": "Sedan",
+      "era": "2010s Current",
+      "tracker": "None",
+      "sellValue": 1595,
+      "registerCost": 5400,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Primo",
+      "ignName": "Primo",
+      "brand": "Albany",
+      "type": "Sedan",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 660,
+      "registerCost": 2250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Raiden",
+      "ignName": "Raiden",
+      "brand": "Coil",
+      "type": "Sedan",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 8250,
+      "registerCost": 27750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Rebla GTS",
+      "ignName": "Rebla GTS",
+      "brand": "Ubermacht",
+      "type": "SUV",
+      "era": "2010s Current",
+      "tracker": "Standard",
+      "sellValue": 5720,
+      "registerCost": 19150,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Reclaimer",
+      "ignName": "Reclaimer",
+      "brand": "Vapid",
+      "type": "Pickup",
+      "era": "2010s Curent",
+      "tracker": "Standard",
+      "sellValue": 3245,
+      "registerCost": 10750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Riata",
+      "ignName": "Riata",
+      "brand": "Vapid",
+      "type": "Pickup",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 3355,
+      "registerCost": 11250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Rumpo",
+      "ignName": "Rumpo",
+      "brand": "Vapid",
+      "type": "Van",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 770,
+      "registerCost": 2500,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Sandking XL",
+      "ignName": "Sandking XL",
+      "brand": "Vapid",
+      "type": "Pickup",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 4400,
+      "registerCost": 14750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Sandking XT",
+      "ignName": "Sandking XT",
+      "brand": "Vapid",
+      "type": "Pickup",
+      "era": "2020s Current",
+      "tracker": "Standard",
+      "sellValue": 6270,
+      "registerCost": 21000,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Schafter S",
+      "ignName": "Schafter S",
+      "brand": "Benefactor",
+      "type": "Sedan",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 3630,
+      "registerCost": 12150,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Schafter V12",
+      "ignName": "Schafter V12",
+      "brand": "Benefactor",
+      "type": "Sport",
+      "era": "2000s Modern",
+      "tracker": "Standard",
+      "sellValue": 3190,
+      "registerCost": 10650,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Schutzen",
+      "ignName": "Schutzen",
+      "brand": "Benefactor",
+      "type": "Coupe",
+      "era": "2010s Modern",
+      "tracker": "Advanced",
+      "sellValue": 16610,
+      "registerCost": 31750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Shifter",
+      "ignName": "Shifter",
+      "brand": "Vapid",
+      "type": "Van",
+      "era": "2020s Current",
+      "tracker": "None",
+      "sellValue": 2145,
+      "registerCost": 7250,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Sojourn",
+      "ignName": "Sojourn",
+      "brand": "Bravado",
+      "type": "Van",
+      "era": "2010s Modern",
+      "tracker": "None",
+      "sellValue": 1980,
+      "registerCost": 6500,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Speedo",
+      "ignName": "Speedo",
+      "brand": "Vapid",
+      "type": "Van",
+      "era": "2010s Current",
+      "tracker": "None",
+      "sellValue": 2035,
+      "registerCost": 6750,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Spritz",
+      "ignName": "Spritz",
+      "brand": "Benefactor",
+      "type": "Van",
+      "era": "2010s Current",
+      "tracker": "Standard",
+      "sellValue": 4235,
+      "registerCost": null,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Stanier G2",
+      "ignName": "Stanier G2",
+      "brand": "Vapid",
+      "type": "Sedan",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 1100,
+      "registerCost": 3650,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Sugoi",
+      "ignName": "Sugoi",
+      "brand": "Dinka",
+      "type": "Sedan",
+      "era": "2020s Modern",
+      "tracker": "Standard",
+      "sellValue": 3465,
+      "registerCost": 11650,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Sultan",
+      "ignName": "Sultan",
+      "brand": "Emperor",
+      "type": "Sport",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 1595,
+      "registerCost": 5400,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Tailgater S",
+      "ignName": "Tailgater S",
+      "brand": "Obey",
+      "type": "Sedan",
+      "era": "2010s Modern",
+      "tracker": "None",
+      "sellValue": 2310,
+      "registerCost": 7650,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Tempesta",
+      "ignName": "Tempesta",
+      "brand": "Pegassi",
+      "type": "Super",
+      "era": "2010s Modern",
+      "tracker": "Advanced",
+      "sellValue": 17930,
+      "registerCost": 38750,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Thrax",
+      "ignName": "Thrax",
+      "brand": "Truffade",
+      "type": "Super",
+      "era": "2010s Modern",
+      "tracker": "Advanced",
+      "sellValue": 23375,
+      "registerCost": 100000,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Toros",
+      "ignName": "Toros",
+      "brand": "Pegassi",
+      "type": "SUV",
+      "era": "2010s Current",
+      "tracker": "Advanced",
+      "sellValue": 14575,
+      "registerCost": 29000,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Transient",
+      "ignName": "Transient",
+      "brand": "Willard",
+      "type": "Sedan",
+      "era": "2010s Current",
+      "tracker": "None",
+      "sellValue": 2145,
+      "registerCost": 7150,
+      "condition": "Good",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Vectre",
+      "ignName": "Vectre",
+      "brand": "Emperor",
+      "type": "Coupe",
+      "era": "2020s Current",
+      "tracker": "Standard",
+      "sellValue": 4400,
+      "registerCost": 14750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Vigero ZX Convertible",
+      "ignName": "Vigero ZX Convertible",
+      "brand": "Declasse",
+      "type": "Muscle",
+      "era": "2010s Current",
+      "tracker": "Advanced",
+      "sellValue": 11110,
+      "registerCost": 28750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Vitello",
+      "ignName": "Vitello",
+      "brand": "Pegassi",
+      "type": "Super",
+      "era": "2010s Modern",
+      "tracker": "Advanced",
+      "sellValue": 18865,
+      "registerCost": 43750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Vivanite",
+      "ignName": "Vivanite",
+      "brand": "Karin",
+      "type": "Van",
+      "era": "2020s Current",
+      "tracker": "None",
+      "sellValue": 2970,
+      "registerCost": 9900,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "V-STR",
+      "ignName": "V-STR",
+      "brand": "Albany",
+      "type": "Sedan",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 4400,
+      "registerCost": 14750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Windsor Drop",
+      "ignName": "Windsor Drop",
+      "brand": "Buckingham",
+      "type": "Coupe",
+      "era": "2010s Current",
+      "tracker": "Advanced",
+      "sellValue": 16610,
+      "registerCost": 31650,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "XLS",
+      "ignName": "XLS",
+      "brand": "Benefactor",
+      "type": "SUV",
+      "era": "2010s Modern",
+      "tracker": "Standard",
+      "sellValue": 4785,
+      "registerCost": 16000,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Yosemite 1500",
+      "ignName": "Yosemite 1500",
+      "brand": "Declasse",
+      "type": "Pickup",
+      "era": "2000s Modern",
+      "tracker": "None",
+      "sellValue": 1705,
+      "registerCost": 5750,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
+      ]
+    },
+    {
+      "name": "Zorrusso",
+      "ignName": "Zorrusso",
+      "brand": "Granforma",
+      "type": "Super",
+      "era": "2010s Current",
+      "tracker": "Advanced",
+      "sellValue": 23375,
+      "registerCost": 87400,
+      "condition": "Top",
+      "note": "",
+      "sources": [
+        "ignVehicles"
       ]
     }
   ],

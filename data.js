@@ -10,7 +10,7 @@
       "platformsLive": "PS5, Xbox Series X|S",
       "platformsNote": "No PC version, no online mode",
       "repo": "rolltidehero/gta-car-tracker",
-      "asOfAt": "2026-11-23T14:28:29.373Z"
+      "asOfAt": "2026-11-24T01:52:11.418Z"
     },
     "sources": {
       "forbes": {
@@ -2765,6 +2765,1843 @@
         "note": "Scanned in Moses's yard.",
         "sources": [
           "gta6heists"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Baller",
+        "brand": "Gallivanter",
+        "type": "SUV",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 2970,
+        "valueText": "$2,970",
+        "sortValue": 2970,
+        "registerCost": 10000,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Baller ST-D",
+        "brand": "Gallivanter",
+        "type": "SUV",
+        "era": "2020s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 7755,
+        "valueText": "$7,755",
+        "sortValue": 7755,
+        "registerCost": 27600,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Banshee",
+        "brand": "Bravado",
+        "type": "Sport",
+        "era": "2000s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 7315,
+        "valueText": "$7,315",
+        "sortValue": 7315,
+        "registerCost": 24500,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Bison",
+        "brand": "Bravado",
+        "type": "Pickup",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2965,
+        "valueText": "$2,965",
+        "sortValue": 2965,
+        "registerCost": 9000,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Bison 1800",
+        "brand": "Bravado",
+        "type": "Pickup",
+        "era": "2010s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2475,
+        "valueText": "$2,475",
+        "sortValue": 2475,
+        "registerCost": 8250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Bison 3800",
+        "brand": "Bravado",
+        "type": "Pickup",
+        "era": "2010s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 4015,
+        "valueText": "$4,015",
+        "sortValue": 4015,
+        "registerCost": 13500,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Blast",
+        "brand": "Mer-Can",
+        "type": "Off-Road",
+        "era": "2020s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1430,
+        "valueText": "$1,430",
+        "sortValue": 1430,
+        "registerCost": null,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Bogan",
+        "brand": "Bravado",
+        "type": "Sedan",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 660,
+        "valueText": "$660",
+        "sortValue": 660,
+        "registerCost": 2150,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Caracara 4x4",
+        "brand": "Vapid",
+        "type": "Pickup",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 5500,
+        "valueText": "$5,500",
+        "sortValue": 5500,
+        "registerCost": 18500,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Carbonizzare",
+        "brand": "Grotti",
+        "type": "Sport",
+        "era": "2010s Modern",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 9845,
+        "valueText": "$9,845",
+        "sortValue": 9845,
+        "registerCost": 28300,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Cavalcade XL",
+        "brand": "Albany",
+        "type": "SUV",
+        "era": "2020s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 9735,
+        "valueText": "$9,735",
+        "sortValue": 9735,
+        "registerCost": 28250,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Chavos XS",
+        "brand": "Dinka",
+        "type": "Sedan",
+        "era": "2010s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1210,
+        "valueText": "$1,210",
+        "sortValue": 1210,
+        "registerCost": 4000,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Comet S2",
+        "brand": "Pfister",
+        "type": "Sport",
+        "era": "2020s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 16500,
+        "valueText": "$16,500",
+        "sortValue": 16500,
+        "registerCost": 31250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Contender",
+        "brand": "Karin",
+        "type": "Pickup",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 12320,
+        "valueText": "$12,320",
+        "sortValue": 12320,
+        "registerCost": 29150,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Coquette",
+        "brand": "Invetero",
+        "type": "Sport",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 7205,
+        "valueText": "$7,205",
+        "sortValue": 7205,
+        "registerCost": 24000,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Coquette D10",
+        "brand": "Invetero",
+        "type": "Sport",
+        "era": "2020s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 9350,
+        "valueText": "$9,350",
+        "sortValue": 9350,
+        "registerCost": 28150,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Cypher",
+        "brand": "Ubermacht",
+        "type": "Coupe",
+        "era": "2020s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 6875,
+        "valueText": "$6,875",
+        "sortValue": 6875,
+        "registerCost": 23000,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "D7700",
+        "brand": "Declasse",
+        "type": "Truck",
+        "era": "2000s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 2.9,
+        "valueText": "$2.9",
+        "sortValue": 2.9,
+        "registerCost": 2.6,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Dominator",
+        "brand": "Vapid",
+        "type": "Muscle",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2970,
+        "valueText": "$2,970",
+        "sortValue": 2970,
+        "registerCost": 9900,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Dominator ASP",
+        "brand": "Vapid",
+        "type": "Muscle",
+        "era": "2000s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 3355,
+        "valueText": "$3,355",
+        "sortValue": 3355,
+        "registerCost": 11250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Dominator GT",
+        "brand": "Vapid",
+        "type": "Muscle",
+        "era": "2020s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 3245,
+        "valueText": "$3,245",
+        "sortValue": 3245,
+        "registerCost": 10750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Dorado",
+        "brand": "Bravado",
+        "type": "SUV",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1210,
+        "valueText": "$1,210",
+        "sortValue": 1210,
+        "registerCost": 4000,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Dubsta",
+        "brand": "Benefactor",
+        "type": "SUV",
+        "era": "2000s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 6215,
+        "valueText": "$6,215",
+        "sortValue": 6215,
+        "registerCost": 20750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Emerus",
+        "brand": "Progen",
+        "type": "Super",
+        "era": "2010s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 21890,
+        "valueText": "$21,890",
+        "sortValue": 21890,
+        "registerCost": 59900,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "FR36",
+        "brand": "Fathom",
+        "type": "Coupe",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1000,
+        "valueText": "$1,000",
+        "sortValue": 1000,
+        "registerCost": 3650,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Furia",
+        "brand": "Piccia",
+        "type": "Super",
+        "era": "2020s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 23045,
+        "valueText": "$23,045",
+        "sortValue": 23045,
+        "registerCost": 66250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Gauntlet Hellfire",
+        "brand": "Bravado",
+        "type": "Muscle",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 10120,
+        "valueText": "$10,120",
+        "sortValue": 10120,
+        "registerCost": 28400,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Granger",
+        "brand": "Declasse",
+        "type": "SUV",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1925,
+        "valueText": "$1,925",
+        "sortValue": 1925,
+        "registerCost": 6400,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Granger 3600LX",
+        "brand": "Declasse",
+        "type": "SUV",
+        "era": "2010s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2420,
+        "valueText": "$2,420",
+        "sortValue": 2420,
+        "registerCost": 8150,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Gresley XT",
+        "brand": "Bravado",
+        "type": "SUV",
+        "era": "2010s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 4345,
+        "valueText": "$4,345",
+        "sortValue": 4345,
+        "registerCost": 14500,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Greta",
+        "brand": "BF",
+        "type": "Sedan",
+        "era": "2010s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 825,
+        "valueText": "$825",
+        "sortValue": 825,
+        "registerCost": 2900,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Growler",
+        "brand": "Pfister",
+        "type": "Sport",
+        "era": "2020s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 13310,
+        "valueText": "$13,310",
+        "sortValue": 13310,
+        "registerCost": 29450,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Intruder",
+        "brand": "Karin",
+        "type": "Sedan",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 825,
+        "valueText": "$825",
+        "sortValue": 825,
+        "registerCost": 2750,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Itali RSX",
+        "brand": "Grotti",
+        "type": "Super",
+        "era": "2020s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 18260,
+        "valueText": "$18,260",
+        "sortValue": 18260,
+        "registerCost": 40650,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Jubilee",
+        "brand": "Buckingham",
+        "type": "SUV",
+        "era": "2020s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 17215,
+        "valueText": "$17,215",
+        "sortValue": 17215,
+        "registerCost": 34900,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Jugular",
+        "brand": "Ocelot",
+        "type": "Sedan",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 10615,
+        "valueText": "$10,615",
+        "sortValue": 10615,
+        "registerCost": 28550,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Kamacho",
+        "brand": "Canis",
+        "type": "SUV",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 6555,
+        "valueText": "$6,555",
+        "sortValue": 6555,
+        "registerCost": 22250,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Landstalker XL",
+        "brand": "Dundreary",
+        "type": "SUV",
+        "era": "2020s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 4620,
+        "valueText": "$4,620",
+        "sortValue": 4620,
+        "registerCost": 15500,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Lowline",
+        "brand": "Vapid",
+        "type": "Sedan",
+        "era": "2010s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1430,
+        "valueText": "$1,430",
+        "sortValue": 1430,
+        "registerCost": 4750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Mesa",
+        "brand": "Canis",
+        "type": "SUV",
+        "era": "2020s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2365,
+        "valueText": "$2,365",
+        "sortValue": 2365,
+        "registerCost": 8000,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Montagne",
+        "brand": "Vapid",
+        "type": "SUV",
+        "era": "2010s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 770,
+        "valueText": "$770",
+        "sortValue": 770,
+        "registerCost": 2650,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Montagne Pickup",
+        "brand": "Vapid",
+        "type": "Pickup",
+        "era": "2010s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1595,
+        "valueText": "$1,595",
+        "sortValue": 1595,
+        "registerCost": 5400,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Montagne XL",
+        "brand": "Vapid",
+        "type": "SUV",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1045,
+        "valueText": "$1,045",
+        "sortValue": 1045,
+        "registerCost": 3400,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Neon",
+        "brand": "Pfister",
+        "type": "Sport",
+        "era": "2020s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 7260,
+        "valueText": "$7,260",
+        "sortValue": 7260,
+        "registerCost": 24250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Outlaw",
+        "brand": "Mer-Can",
+        "type": "Off-Road",
+        "era": "2010s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2420,
+        "valueText": "$2,420",
+        "sortValue": 2420,
+        "registerCost": 8150,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Paragon",
+        "brand": "Ascot",
+        "type": "Coupe",
+        "era": "2010s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 16555,
+        "valueText": "$16,555",
+        "sortValue": 16555,
+        "registerCost": 31400,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Penumbra",
+        "brand": "Maibatsu",
+        "type": "Coupe",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1265,
+        "valueText": "$1,265",
+        "sortValue": 1265,
+        "registerCost": 4250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "PMP 700",
+        "brand": "Schyster",
+        "type": "Sedan",
+        "era": "2010s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1595,
+        "valueText": "$1,595",
+        "sortValue": 1595,
+        "registerCost": 5400,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Primo",
+        "brand": "Albany",
+        "type": "Sedan",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 660,
+        "valueText": "$660",
+        "sortValue": 660,
+        "registerCost": 2250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Raiden",
+        "brand": "Coil",
+        "type": "Sedan",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 8250,
+        "valueText": "$8,250",
+        "sortValue": 8250,
+        "registerCost": 27750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Rebla GTS",
+        "brand": "Ubermacht",
+        "type": "SUV",
+        "era": "2010s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 5720,
+        "valueText": "$5,720",
+        "sortValue": 5720,
+        "registerCost": 19150,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Reclaimer",
+        "brand": "Vapid",
+        "type": "Pickup",
+        "era": "2010s Curent",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 3245,
+        "valueText": "$3,245",
+        "sortValue": 3245,
+        "registerCost": 10750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Riata",
+        "brand": "Vapid",
+        "type": "Pickup",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 3355,
+        "valueText": "$3,355",
+        "sortValue": 3355,
+        "registerCost": 11250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Rumpo",
+        "brand": "Vapid",
+        "type": "Van",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 770,
+        "valueText": "$770",
+        "sortValue": 770,
+        "registerCost": 2500,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Sandking XL",
+        "brand": "Vapid",
+        "type": "Pickup",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 4400,
+        "valueText": "$4,400",
+        "sortValue": 4400,
+        "registerCost": 14750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Sandking XT",
+        "brand": "Vapid",
+        "type": "Pickup",
+        "era": "2020s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 6270,
+        "valueText": "$6,270",
+        "sortValue": 6270,
+        "registerCost": 21000,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Schafter S",
+        "brand": "Benefactor",
+        "type": "Sedan",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 3630,
+        "valueText": "$3,630",
+        "sortValue": 3630,
+        "registerCost": 12150,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Schafter V12",
+        "brand": "Benefactor",
+        "type": "Sport",
+        "era": "2000s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 3190,
+        "valueText": "$3,190",
+        "sortValue": 3190,
+        "registerCost": 10650,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Schutzen",
+        "brand": "Benefactor",
+        "type": "Coupe",
+        "era": "2010s Modern",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 16610,
+        "valueText": "$16,610",
+        "sortValue": 16610,
+        "registerCost": 31750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Shifter",
+        "brand": "Vapid",
+        "type": "Van",
+        "era": "2020s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2145,
+        "valueText": "$2,145",
+        "sortValue": 2145,
+        "registerCost": 7250,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Sojourn",
+        "brand": "Bravado",
+        "type": "Van",
+        "era": "2010s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1980,
+        "valueText": "$1,980",
+        "sortValue": 1980,
+        "registerCost": 6500,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Speedo",
+        "brand": "Vapid",
+        "type": "Van",
+        "era": "2010s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2035,
+        "valueText": "$2,035",
+        "sortValue": 2035,
+        "registerCost": 6750,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Spritz",
+        "brand": "Benefactor",
+        "type": "Van",
+        "era": "2010s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 4235,
+        "valueText": "$4,235",
+        "sortValue": 4235,
+        "registerCost": null,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Stanier G2",
+        "brand": "Vapid",
+        "type": "Sedan",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1100,
+        "valueText": "$1,100",
+        "sortValue": 1100,
+        "registerCost": 3650,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Sugoi",
+        "brand": "Dinka",
+        "type": "Sedan",
+        "era": "2020s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 3465,
+        "valueText": "$3,465",
+        "sortValue": 3465,
+        "registerCost": 11650,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Sultan",
+        "brand": "Emperor",
+        "type": "Sport",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1595,
+        "valueText": "$1,595",
+        "sortValue": 1595,
+        "registerCost": 5400,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Tailgater S",
+        "brand": "Obey",
+        "type": "Sedan",
+        "era": "2010s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2310,
+        "valueText": "$2,310",
+        "sortValue": 2310,
+        "registerCost": 7650,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Tempesta",
+        "brand": "Pegassi",
+        "type": "Super",
+        "era": "2010s Modern",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 17930,
+        "valueText": "$17,930",
+        "sortValue": 17930,
+        "registerCost": 38750,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Thrax",
+        "brand": "Truffade",
+        "type": "Super",
+        "era": "2010s Modern",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 23375,
+        "valueText": "$23,375",
+        "sortValue": 23375,
+        "registerCost": 100000,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Toros",
+        "brand": "Pegassi",
+        "type": "SUV",
+        "era": "2010s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 14575,
+        "valueText": "$14,575",
+        "sortValue": 14575,
+        "registerCost": 29000,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Transient",
+        "brand": "Willard",
+        "type": "Sedan",
+        "era": "2010s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2145,
+        "valueText": "$2,145",
+        "sortValue": 2145,
+        "registerCost": 7150,
+        "condition": "Good",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Vectre",
+        "brand": "Emperor",
+        "type": "Coupe",
+        "era": "2020s Current",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 4400,
+        "valueText": "$4,400",
+        "sortValue": 4400,
+        "registerCost": 14750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Vigero ZX Convertible",
+        "brand": "Declasse",
+        "type": "Muscle",
+        "era": "2010s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 11110,
+        "valueText": "$11,110",
+        "sortValue": 11110,
+        "registerCost": 28750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Vitello",
+        "brand": "Pegassi",
+        "type": "Super",
+        "era": "2010s Modern",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 18865,
+        "valueText": "$18,865",
+        "sortValue": 18865,
+        "registerCost": 43750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Vivanite",
+        "brand": "Karin",
+        "type": "Van",
+        "era": "2020s Current",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 2970,
+        "valueText": "$2,970",
+        "sortValue": 2970,
+        "registerCost": 9900,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "V-STR",
+        "brand": "Albany",
+        "type": "Sedan",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 4400,
+        "valueText": "$4,400",
+        "sortValue": 4400,
+        "registerCost": 14750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Windsor Drop",
+        "brand": "Buckingham",
+        "type": "Coupe",
+        "era": "2010s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 16610,
+        "valueText": "$16,610",
+        "sortValue": 16610,
+        "registerCost": 31650,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "XLS",
+        "brand": "Benefactor",
+        "type": "SUV",
+        "era": "2010s Modern",
+        "tracker": "Standard",
+        "wishList": false,
+        "buyers": [
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Pay 'n' Spray",
+        "chapter": "Chapter 3",
+        "sellValue": 4785,
+        "valueText": "$4,785",
+        "sortValue": 4785,
+        "registerCost": 16000,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Yosemite 1500",
+        "brand": "Declasse",
+        "type": "Pickup",
+        "era": "2000s Modern",
+        "tracker": "None",
+        "wishList": false,
+        "buyers": [
+          "Moses",
+          "Pay 'n' Spray"
+        ],
+        "buyerLabel": "Moses, Pay 'n' Spray",
+        "chapter": "Chapter 2",
+        "sellValue": 1705,
+        "valueText": "$1,705",
+        "sortValue": 1705,
+        "registerCost": 5750,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
+        ],
+        "wish": null
+      },
+      {
+        "name": "Zorrusso",
+        "brand": "Granforma",
+        "type": "Super",
+        "era": "2010s Current",
+        "tracker": "Advanced",
+        "wishList": false,
+        "buyers": [],
+        "buyerLabel": "No confirmed buyer",
+        "chapter": "",
+        "sellValue": 23375,
+        "valueText": "$23,375",
+        "sortValue": 23375,
+        "registerCost": 87400,
+        "condition": "Top",
+        "note": "",
+        "sources": [
+          "ignVehicles"
         ],
         "wish": null
       }
